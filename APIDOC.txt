@@ -1,0 +1,10 @@
+schema:Leads
+
+fields:id,source,name,contact,course,status,remarks,
+
+
+Api for adding new lead
+
+
+
+
